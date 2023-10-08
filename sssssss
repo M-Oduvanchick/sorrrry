@@ -4,5 +4,5 @@ git add README.md
 git commit -m "Initial commit"
 git branch -M main
 git remote  https://github.com/M-Oduvanchick/sorrrry.git
-git push -u origin 
+git push -u origin
 
